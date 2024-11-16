@@ -32,7 +32,7 @@ handlers:
   upload: upload/.+
 
 - url: /.*
-  script: handler.php
+  script: auto
 
 
 
